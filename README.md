@@ -1,9 +1,9 @@
-#PSUpdate [![[img]]][publicdomain]
+#PSUpdate [![img]][publicdomain]
 update powershell in one line.
 
 `iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"`
 
-[![Reference][stack-exchange]][ref]
+[[Reference][stack-exchange]][ref]
 
 [img]:https://licensebuttons.net/p/zero/1.0/88x31.png
 [publicdomain]:https://creativecommons.org/publicdomain/zero/1.0/
